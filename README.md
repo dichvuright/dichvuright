@@ -15,14 +15,6 @@
 #### 🛠️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🚀 Websites của mình:
-
-| | Website | Mô tả |
-|---|--------|-------|
-| 🌍 | [**dichvuright.com**](https://dichvuright.com) | Website chính |
-| 🌐 | [**dichvuright.net**](https://dichvuright.net) | Nền tảng dịch vụ |
-| 🤖 | [**dichvuright.ai**](https://dichvuright.ai) | AI & Automation |
-| ⏰ | [**cron.dichvuright.net**](https://cron.dichvuright.net) | Hệ thống cron job |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dichvuright&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
