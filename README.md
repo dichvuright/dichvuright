@@ -14,6 +14,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 #### 🛠️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+#### 🧠 AI Stack
+<a><img src="assets/cursor.jpg" width="40" height="40" style="border-radius:10px;" alt="Cursor"/></a> <a><img src="assets/antigravity.jpg" width="40" height="40" style="border-radius:10px;" alt="Antigravity"/></a> <a><img src="assets/claude.png" width="40" height="40" style="border-radius:10px;" alt="Claude"/></a> <a><img src="assets/chatgpt.png" width="40" height="40" style="border-radius:10px;" alt="ChatGPT"/></a> <a><img src="assets/gemini.jpg" width="40" height="40" style="border-radius:10px;" alt="Gemini"/></a>
 
 
 # 📊 GitHub Stats:
