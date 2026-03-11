@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ Đang làm gì:<br>Code web là chính — frontend, backend, fullstack gì cũng chơi. Thích build mấy cái tool nho nhỏ cho vui.<br><br>🧑‍🤝‍🧑 Muốn collab:<br>Dự án open-source, side project vui vui, hay bất cứ cái gì liên quan đến web dev.<br><br>🌱 Đang học:<br>Đào sâu thêm React, Next.js và mấy cái cloud infrastructure cho ngầu.<br><br>💬 Hỏi mình về:<br>JavaScript, TypeScript, Python, Node.js, MongoDB — nói chung là web dev thì cứ hỏi thoải mái!<br><br>⚡ Fun fact:<br>Cái gì lặp lại là mình viết script, cái gì code được là mình code. Viết code vui lắm nha! 🤖✨
+⚒️ Fullstack web dev — frontend, backend gì cũng chơi<br>🌱 Đang đào sâu React, Next.js, cloud infrastructure<br>💬 Hỏi mình về JS, TS, Python, Node.js, MongoDB<br>⚡ Cái gì lặp lại là viết script thôi! 🤖
 
 
 ## 🌐 Socials:
@@ -33,7 +33,6 @@
 [![](https://visitcount.itsvg.in/api?id=dichvuright&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
-
 | | Bank | Account Number | Account Name |
 |---|------|---------------|--------------|
 | <img src="https://cdn.vietqr.io/img/VCB.png" width="50"/> | **Vietcombank** | `1049850384` | **NGUYEN DUY KHANH** |
