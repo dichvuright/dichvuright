@@ -1,6 +1,6 @@
 # 💫 About Me:
-⚒️ Fullstack web dev — frontend, backend gì cũng chơi<br>🌱 Đang đào sâu React, Next.js, cloud infrastructure<br>💬 Hỏi mình về JS, TS, Python, Node.js, MongoDB<br>⚡ Cái gì lặp lại là viết script thôi! 🤖
-
+⚒️ Hello Work!
+⚡ Full Stack Website!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dichvuright) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dichvuright) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dichvuright_dev) [![Zalo](https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=white)](https://zalo.me/0978009289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanhbts5@gmail.com)
